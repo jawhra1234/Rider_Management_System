@@ -1,0 +1,2 @@
+Rider: John → Driver: Ramu | Distance: 2 km | Fare: ₹70
+Rider: Jane → Driver: Ramu | Distance: 8 km | Fare: ₹130
